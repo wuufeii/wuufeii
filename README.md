@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-JavaScript-FF9800?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-iView-8BC34A?style=flat-square&logo=vue.js&logoColor=ffffff)](https://iviewui.com/)
 [![](https://img.shields.io/badge/-element-4CAF50?style=flat-square&logo=vue.js&logoColor=ffffff)](https://element.eleme.cn/)
