@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 <details>
   <summary> More things </summary>
   <br>
-    <p align="center">
+    <p>
     <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
     </p>
-    <p align="center">
+    <p>
       <img src= "https://visitor-badge.laobi.icu/badge?page_id=wuufeii.wuufeii" />
   </p>
 </details>
