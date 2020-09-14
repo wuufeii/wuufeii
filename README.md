@@ -19,15 +19,15 @@
 [![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat-square&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
 [![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[[!Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 
 <p align="">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wuufeii&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img height='230' src="https://github-readme-stats.vercel.app/api?username=wuufeii&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img height='230' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
 </p>
 
 <details>
