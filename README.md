@@ -26,15 +26,14 @@
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 
 <p align="">
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img height='230' src="https://github-readme-stats.vercel.app/api?username=wuufeii&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-  <a href= "https://github.com/anuraghazra/github-readme-stats"><img height='230' src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wuufeii&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
 
 <details>
   <summary> More things </summary>
   <br>
     <p>
-      还原follow交朋友
+        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=wuufeii&layout=compact" /></a>
     </p>
   
   <!--Here are some ideas to get you started:
