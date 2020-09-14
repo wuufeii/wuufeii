@@ -4,10 +4,10 @@
 
 
 <p align="center">
-  <strong><a href="https://wuufeii.github.io" blank="_target">博客</a></strong> |
-  <strong><a href="https://blog.csdn.net/wuufeii" blank="_target">CSND</a></strong>
+  <strong><a href="https://wuufeii.github.io">博客</a></strong> |
+  <strong><a href="https://blog.csdn.net/wuufeii">CSND</a></strong>
 </p>
-<a href="https://wuufeii.github.io" blank="_target"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/wuufeii/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
 
 #### Platform&Tools
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
