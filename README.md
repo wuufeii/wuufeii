@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong><a href="https://wuufeii.github.io">博客</a></strong> |
-  <strong><a href="https://blog.csdn.net/wuufeii">CSND</a></strong>
+  <strong><a href="https://blog.csdn.net/wuufeii">CSDN</a></strong>
 </p>
 <a href="https://profile-counter.glitch.me/wuufeii/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
 
